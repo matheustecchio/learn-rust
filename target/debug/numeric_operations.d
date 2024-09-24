@@ -1,1 +1,0 @@
-/home/matheus/RustroverProjects/Learn\ Rust/target/debug/numeric_operations: /home/matheus/RustroverProjects/Learn\ Rust/Common\ Programming\ Concepts/Basic\ Data\ Types/Numeric\ Operations/src/main.rs
