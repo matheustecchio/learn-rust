@@ -1,0 +1,1 @@
+/home/matheus/RustroverProjects/Learn\ Rust/target/debug/looping_through_a_collection_with_for: /home/matheus/RustroverProjects/Learn\ Rust/Common\ Programming\ Concepts/Repetitions/Looping\ Through\ an\ Array\ with\ for/src/main.rs
